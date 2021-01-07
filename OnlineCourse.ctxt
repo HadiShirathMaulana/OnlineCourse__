@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OnlineCourse
+comment0.text=\r\n\ Implementasi\ class\ menggunakan\ dua\ method\ yaitu\r\n\ getDescription()\ and\ cost()\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment1.text=\r\n\ Method\ ini\ akan\ berguna\ untuk\r\n\ mendeskripsikan\ keadaan\ \r\n\ @return\ String\ description\r\n
+comment2.params=
+comment2.target=double\ cost()
+comment2.text=\r\n\ Method\ yang\ berfungsi\ untuk\ menghitung\ biaya\r\n\ disetiap\ sesuatu\ yang\ dipesan\r\n
+numComments=3

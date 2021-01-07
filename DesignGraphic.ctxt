@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DesignGraphic
+comment0.text=\r\n\ Project\ \:\ Online\ Course\r\n\ @author\ Hadi\ Shirath\ Maulana,\ Farhan\ Maulana\r\n\ Date\:\ 6/01/2021\r\n\ Final\ Arsitektur\ Perangkat\ Lunak\r\n
+comment1.params=
+comment1.target=DesignGraphic()
+comment2.params=
+comment2.target=double\ cost()
+comment2.text=\r\n\ Method\ yang\ berfungsi\ untuk\ mengembalikan\ nilai\ harga\r\n\ dari\ kelas\ kursus\ DesignGraphic\ \r\n
+numComments=3

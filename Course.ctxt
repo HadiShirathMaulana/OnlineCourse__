@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=inStock
+comment1.target=Course(java.lang.Boolean)
+comment2.params=
+comment2.target=boolean\ isInStock()
+comment3.params=inStock
+comment3.target=void\ setInStock(boolean)
+comment4.params=o
+comment4.target=void\ addObserver(Observer)
+comment5.params=o
+comment5.target=void\ removeObserver(Observer)
+comment6.params=
+comment6.target=void\ notifyObserver()
+numComments=7

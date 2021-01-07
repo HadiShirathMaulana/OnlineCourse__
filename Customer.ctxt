@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Project\ \:\ Online\ Course\r\n\ @author\ Hadi\ Shirath\ Maulana,\ Farhan\ Maulana\r\n\ Date\:\ 6/01/2021\r\n\ Final\ Arsitektur\ Perangkat\ Lunak\r\n
+comment1.params=subject\ username
+comment1.target=Customer(Subject,\ java.lang.String)
+comment2.params=
+comment2.target=void\ update()
+comment3.params=
+comment3.target=void\ buyCourse()
+comment4.params=
+comment4.target=void\ unsubscribe()
+numComments=5

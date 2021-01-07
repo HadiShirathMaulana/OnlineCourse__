@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Decorator
+comment0.text=\r\n\ Class\ Decorator\ merupakan\ class\ abstract\ \r\n\ class\ ini\ merupakan\ Decorator\ design\ yang\ akan\ diaplikasikan\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment1.text=\r\n\ Method\ getDescription\r\n\ method\ yang\ masih\ belum\ di\ emplementasikan\ penggunaannya\r\n
+numComments=2

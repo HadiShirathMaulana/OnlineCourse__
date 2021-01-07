@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CoursePrivateLeadership
+comment0.text=\r\n\ Project\ \:\ Online\ Course\r\n\ @author\ Hadi\ Shirath\ Maulana,\ Farhan\ Maulana\r\n\ Date\:\ 6/01/2021\r\n\ Final\ Arsitektur\ Perangkat\ Lunak\r\n
+comment1.params=onlineCourse
+comment1.target=CoursePrivateLeadership(OnlineCourse)
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment3.params=
+comment3.target=double\ cost()
+comment3.text=\r\n\ Method\ \r\n
+numComments=4
